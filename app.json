@@ -8,11 +8,11 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "2d173edbfdabae9720a0238bda945a03",
       "required": true
     },
     "HANDLER": {
-      "description": "Enter Prefix For Commands",
+      "description": "2d173edbfdabae9720a0238bda945a03",
       "required": false,
       "value": "."
     },
