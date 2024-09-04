@@ -10,7 +10,7 @@ if (fs.existsSync('config.env')) {
 const API = "https://api-aswin-sparky.koyeb.app";
 const ALIVE = process.env.ALIVE || "I am Alive";
 const HANDLERS = process.env.HANDLER || "^";
-const SESSION_ID = process.env.SESSION_ID || "4bd1e05d9dcf72aee43e691dec8283b6";
+const SESSION_ID = process.env.SESSION_ID || "2d173edbfdabae9720a0238bda945a03";
 const SUDO = process.env.SUDO || '201210307869';
 const AUTO_STATUS_VIEW = process.env.AUTO_STATUS_VIEW || "true";
 const ALWAYS_ONLINE = process.env.ALWAYS_ONLINE || "false";
@@ -24,9 +24,9 @@ const AUDIO_DATA = process.env.AUDIO_DATA || "X BOT MD;ASWIN SPARKY;https://i.im
 const STICKER_DATA = process.env.STICKER_DATA || "X BOT MD;ASWIN SPARKY";
 const WORK_TYPE = process.env.WORK_TYPE || 'public';
 const DATABASE_URL = process.env.DATABASE_URL || "./lib/database.db";
-const HEROKU_APP_NAME = process.env.HEROKU_APP_NAME || "4bd1e05d9dcf72aee43e691dec8283b6";
-const HEROKU_API_KEY = process.env.HEROKU_API_KEY || "4bd1e05d9dcf72aee43e691dec8283b6";
-const KOYEB_API_KEY = process.env.KOYEB_API_KEY || "4bd1e05d9dcf72aee43e691dec8283b6";
+const HEROKU_APP_NAME = process.env.HEROKU_APP_NAME || "2d173edbfdabae9720a0238bda945a03";
+const HEROKU_API_KEY = process.env.HEROKU_API_KEY || "2d173edbfdabae9720a0238bda945a03";
+const KOYEB_API_KEY = process.env.KOYEB_API_KEY || "2d173edbfdabae9720a0238bda945a03";
 
 
 
